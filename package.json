@@ -1,0 +1,18 @@
+{
+  "name": "@justinr/bayes-elo",
+  "version": "1.0.0",
+  "description": "Node port for Bayeselo created by Remi Coulom",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JustinR17/bayes-elo-js.git"
+  },
+  "author": "JustinR",
+  "bugs": {
+    "url": "https://github.com/JustinR17/bayes-elo-js/issues"
+  },
+  "homepage": "https://github.com/JustinR17/bayes-elo-js#readme"
+}
